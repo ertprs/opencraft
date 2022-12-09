@@ -76,7 +76,7 @@
     "redux-actions": "^2.6.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
-    "tinymce": "^5.2.2",
+    "tinymce": "^5.10.7",
     "typescript": "3.9.2"
   }
 }
